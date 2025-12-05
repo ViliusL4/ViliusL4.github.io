@@ -44,5 +44,3 @@ Prosjektet er laget med tanke på universell utforming, og gir et godt utgangspu
 - Mer funksjonalitet
 - Responsiv design
 ```
-
-Vil du at jeg skal legge til GitHub-seksjoner som installasjon, lisens eller bidrag også?
